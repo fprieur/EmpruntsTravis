@@ -14,4 +14,5 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
     Examples:
     | e  | titre                    | emprunteur |
     # A COMPLETER!
-    | e1 | TITRE               | QUI        | 
+    | e1 | "tmux 2"          | "Brian P. Hogan" | 
+     
