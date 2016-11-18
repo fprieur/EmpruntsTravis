@@ -14,7 +14,7 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
     Examples:
     | e  | titre                    | emprunteur |
     # A COMPLETER!
-    | e1 | "tmux"  | "Brian P. Hogan" | 
-    | e2 | "The Way of the Web Tester"  | "Jonathan Rasmusson" | 
-    | e3 | "Seven Mobile Apps in Seven Weeks"  | "Tony Hillerson" | 
+    | e1 | tmux  | Brian P. Hogan | 
+    | e2 | The Way of the Web Tester  | Jonathan Rasmusson | 
+    | e3 | Seven Mobile Apps in Seven Weeks  | Tony Hillerson |
      
