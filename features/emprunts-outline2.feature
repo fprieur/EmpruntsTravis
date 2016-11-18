@@ -20,7 +20,7 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
     Examples:
     # A COMPLETER!
     # Ici, on aimerait s'assurer de tester toutes les combinaisons possibles!
-    | e1 | "tmux 2"  | "Brian P. Hogan" | 
+    | e1 | "tmux"  | "Brian P. Hogan" | 
     | e2 | "The Way of the Web Tester"  | "Jonathan Rasmusson" | 
     | e3 | "Seven Mobile Apps in Seven Weeks"  | "Tony Hillerson" |
 
